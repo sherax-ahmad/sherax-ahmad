@@ -6,7 +6,7 @@
 
 # Bioinformatician & Neuroinformatics Researcher
 
-**Systems Biology · Transcriptomics · Neural Dynamics · Machine Learning**
+**Systems Biology · Biomedical software development · Neural Dynamics · Machine Learning**
 
 ![Python](https://img.shields.io/badge/Python-advanced-1D9E75?style=flat-square&labelColor=0d1117)
 ![R](https://img.shields.io/badge/R-proficient-534AB7?style=flat-square&labelColor=0d1117)
@@ -20,7 +20,7 @@
 
 MPhil researcher at the National Centre for Bioinformatics, QAU, with a dual focus on **transcriptomics/multi-omics** and **computational neuroscience**. I build ML-driven tools for NGS data, study tumor heterogeneity at single-cell resolution, and model dynamic functional connectivity in EEG to understand cognitive load and brain aging.
 
-Founder of **Algomics** — an open platform for bioinformatics education and tool development.
+Founder of **Algomics** - Turning data into 1% better healthcare outcomes.
 
 ---
 

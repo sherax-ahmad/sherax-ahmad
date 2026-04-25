@@ -63,21 +63,11 @@ Workflows       Snakemake · Nextflow · Git · HPC · Docker (basic)
 
 ---
 
-## Selected Stats
-
-| | |
-|---|---|
-| 📄 Manuscripts under review | 2 |
-| 🧠 LSTM EEG accuracy | ~84% |
-| 🔗 Brain age R² | ~0.59 |
-| 🏛 Research labs | 3 (QAU · UBarcelona · GCU) |
-
----
 
 ## Contact
 
 - 📧 sherax.aaa@outlook.com
 - 🌐 [sherax.site](https://sherax.site)
-- 🐙 GitHub
-- 💼 LinkedIn
+- 🐙 [GitHub](https://github.com/sherax-ahmad/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sherax/)
 - 🧬 [Algomics](https://algomics.site)
